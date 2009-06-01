@@ -1,6 +1,6 @@
 %define name colorprompt
 %define version 0.1
-%define release %mkrel 1
+%define release %mkrel 2
 %define profilefile 92user-color.sh
 
 Summary: Make the user prompt in bash different colors depending on your user
