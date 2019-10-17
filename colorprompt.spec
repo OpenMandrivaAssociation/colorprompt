@@ -4,7 +4,7 @@
 Summary:	Make the user prompt in bash different colors depending on your user
 Name:		colorprompt
 Version:	1.0
-Release:	1
+Release:	2
 Source0:	https://github.com/solbu/%{name}/archive/v%{version}/%{name}-%{version}.tar.gz
 License:	GPLv3+
 Group:		Shells
